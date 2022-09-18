@@ -2,6 +2,6 @@
 
 ## Name: Devaditya Roy
 
-⏩ [Main Project 1](https://github.com/smartinternz02/SPSGP-59196-Virtual-Internship---Android-Application-Development-Using-Kotlin)
+⏩ [Main Project](https://github.com/smartinternz02/SPSGP-59196-Virtual-Internship---Android-Application-Development-Using-Kotlin)
 
 ⏩ [Google Developer Profile]( https://g.dev/devaditya)
