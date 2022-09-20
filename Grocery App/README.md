@@ -1,13 +1,4 @@
-
-   _____ _                       _             _     _     _<br>
-  /  ___| |                     (_)           | |   (_)   | |<br>
-  \ `--.| |__   ___  _ __  _ __  _ _ __   __ _| |    _ ___| |_<br>
-   `--. \ '_ \ / _ \| '_ \| '_ \| | '_ \ / _` | |   | / __| __|<br>
-  /\__/ / | | | (_) | |_) | |_) | | | | | (_| | |___| \__ \ |_<br>
-  \____/|_| |_|\___/| .__/| .__/|_|_| |_|\__, \_____/_|___/\__|<br>
-                    | |   | |             __/ |<br>
-                    |_|   |_|            |___/<br>
-<br>
+Grocery: [Internship Program Project](https://github.com/smartinternz02/SPSGP-59196-Virtual-Internship---Android-Application-Development-Using-Kotlin)
 
 
 # Shopping list
